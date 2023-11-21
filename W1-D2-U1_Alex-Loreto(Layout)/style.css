@@ -1,0 +1,17 @@
+#logo-1{
+    width: 50px;
+    block-size: auto;
+}
+body{ max-width: 1250;}
+
+table{border: 1px solid black;}
+td{border: 2px solid black;}
+th{border: 1px solid blue;}
+#banner{
+   
+    block-size: auto; 
+    background-color: rgb(3, 7, 27);;
+   
+        }
+        #banner-color{background-color: rgb(3, 7, 27);}
+       
